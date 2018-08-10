@@ -1,4 +1,5 @@
 # devops-aula02
 Will Smith
-Bruce Lee
+Jey Lee
 Denzel Washington
+Outro Ator
